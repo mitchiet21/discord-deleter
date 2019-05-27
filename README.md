@@ -1,7 +1,7 @@
 # discord-deleter
 ##### Mitchell Taylor
 
-This project contains a Lua script for Logitech G-Series keyboards that will delete messages from a chosen Discord channel.
+This repository contains a Lua script for Logitech G-Series keyboards that will delete messages from a chosen Discord channel.
 
 1. Copy the code from discord_message_remover.lua.
 2. Start Logitech Gaming Software.
